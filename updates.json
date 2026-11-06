@@ -1,5 +1,5 @@
 {
-  "theme": { "version": "2.5.0", "package": "update/izeltlab-theme.zip", "backup": { "version": "2.4.0", "package": "backup/izeltlab-theme.zip" } },
-  "codex": { "version": "1.67.0", "package": "update/codex.zip", "backup": { "version": "1.66.0", "package": "backup/codex.zip" } },
-  "bolt":  { "version": "1.3.0", "package": "update/izeltlab-bolt.zip", "backup": { "version": "1.2.0", "package": "backup/izeltlab-bolt.zip" } }
+  "theme": { "version": "2.5.1", "package": "update/izeltlab-theme.zip", "backup": { "version": "2.4.0", "package": "backup/izeltlab-theme.zip" } },
+  "codex": { "version": "1.67.1", "package": "update/codex.zip", "backup": { "version": "1.66.0", "package": "backup/codex.zip" } },
+  "bolt":  { "version": "1.3.1", "package": "update/izeltlab-bolt.zip", "backup": { "version": "1.3.0", "package": "backup/izeltlab-bolt.zip" } }
 }
