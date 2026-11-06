@@ -1,5 +1,5 @@
 {
   "theme": { "version": "2.5.2", "package": "update/izeltlab-theme.zip", "backup": { "version": "2.5.1", "package": "backup/izeltlab-theme.zip" } },
-  "codex": { "version": "1.67.2", "package": "update/codex.zip", "backup": { "version": "1.67.1", "package": "backup/codex.zip" } },
+  "codex": { "version": "1.67.3", "package": "update/codex.zip", "backup": { "version": "1.67.2", "package": "backup/codex.zip" } },
   "bolt":  { "version": "1.3.1", "package": "update/izeltlab-bolt.zip", "backup": { "version": "1.3.0", "package": "backup/izeltlab-bolt.zip" } }
 }
