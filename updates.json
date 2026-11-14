@@ -10,13 +10,13 @@
     }
   },
   "codex": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "package": "update/codex.zip",
-    "sha256": "8487cf4b59242e56ea14b550589f283cfb3115fd3fa5b61cc81640bc0ab94bd0",
+    "sha256": "98db95bdc0ba7f4c3ae0617a32bfe4cc7596381260a8106905bb4000b1f8bc0c",
     "backup": {
-      "version": "2.4.0",
+      "version": "2.5.0",
       "package": "backup/codex.zip",
-      "sha256": "18443f8f4208f633ef0df414f8e8a84b5a3d597b4192dee5775a57f6b9d0cd62"
+      "sha256": "8487cf4b59242e56ea14b550589f283cfb3115fd3fa5b61cc81640bc0ab94bd0"
     }
   },
   "bolt": {
