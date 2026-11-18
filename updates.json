@@ -1,12 +1,12 @@
 {
   "theme": {
-    "version": "3.10.0",
+    "version": "3.10.1",
     "package": "update/izeltlab-theme.zip",
-    "sha256": "351d95c3f1638a68915d4330aefd86ba981fb74b86aa35410763104cbe1b82db",
+    "sha256": "44898f4b7a857d3bd75bd8090c27523be14139afd6063db86a3ce0b917cc21ec",
     "backup": {
-      "version": "3.9.0",
+      "version": "3.10.0",
       "package": "backup/izeltlab-theme.zip",
-      "sha256": "edc88e282f35c8853540dc4698daac7c70cbb32d7692c3966c48868c112211c8"
+      "sha256": "351d95c3f1638a68915d4330aefd86ba981fb74b86aa35410763104cbe1b82db"
     }
   },
   "codex": {
