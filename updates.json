@@ -10,9 +10,9 @@
     }
   },
   "codex": {
-    "version": "2.14.0",
+    "version": "2.15.0",
     "package": "update/codex.zip",
-    "sha256": "13bea2014e7652a790e87a7eb5742b539660ec044d3723a06fce4ac3beab7135",
+    "sha256": "c00e9fa59f068aeab30aee993817742e2eea7fa555cc4d3a9b6b4ab815d09907",
     "backup": {
       "version": "2.13.0",
       "package": "backup/codex.zip",
