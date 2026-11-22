@@ -1,32 +1,32 @@
 {
-    "theme": {
-        "version": "3.19.0",
-        "package": "update/izeltlab-theme.zip",
-        "sha256": "f258626df2eca2e2232778f592b0bbdf729dac7acd61a7cbb238f59a227271cd",
-        "backup": {
-            "version": "3.18.0",
-            "package": "backup/izeltlab-theme.zip",
-            "sha256": "330c61a8e7c3300d3ff6ed15918e4f5ff68684b8c0e5cfd163d0953689dab395"
-        }
-    },
-    "codex": {
-        "version": "2.16.0",
-        "package": "update/codex.zip",
-        "sha256": "e328ba16c550dcd88531760c308158b181b303db888ba3c25503157f524fce70",
-        "backup": {
-            "version": "2.15.0",
-            "package": "backup/codex.zip",
-            "sha256": "c00e9fa59f068aeab30aee993817742e2eea7fa555cc4d3a9b6b4ab815d09907"
-        }
-    },
-    "bolt": {
-        "version": "1.16.0",
-        "package": "update/izeltlab-bolt.zip",
-        "sha256": "ee7f2fc819355f751858ae7bba295eb09ad5f07116281005707613b515fecbef",
-        "backup": {
-            "version": "1.15.0",
-            "package": "backup/izeltlab-bolt.zip",
-            "sha256": "f704e9b72acf9fc479f57415bc8be38be61218e72c5e9ebe338630ce937fc739"
-        }
+  "theme": {
+    "version": "3.19.0",
+    "package": "update/izeltlab-theme.zip",
+    "sha256": "f258626df2eca2e2232778f592b0bbdf729dac7acd61a7cbb238f59a227271cd",
+    "backup": {
+      "version": "3.18.0",
+      "package": "backup/izeltlab-theme.zip",
+      "sha256": "330c61a8e7c3300d3ff6ed15918e4f5ff68684b8c0e5cfd163d0953689dab395"
     }
+  },
+  "codex": {
+    "version": "2.16.0",
+    "package": "update/codex.zip",
+    "sha256": "e328ba16c550dcd88531760c308158b181b303db888ba3c25503157f524fce70",
+    "backup": {
+      "version": "2.15.0",
+      "package": "backup/codex.zip",
+      "sha256": "c00e9fa59f068aeab30aee993817742e2eea7fa555cc4d3a9b6b4ab815d09907"
+    }
+  },
+  "bolt": {
+    "version": "1.16.0",
+    "package": "update/izeltlab-bolt.zip",
+    "sha256": "ee7f2fc819355f751858ae7bba295eb09ad5f07116281005707613b515fecbef",
+    "backup": {
+      "version": "1.15.0",
+      "package": "backup/izeltlab-bolt.zip",
+      "sha256": "f704e9b72acf9fc479f57415bc8be38be61218e72c5e9ebe338630ce937fc739"
+    }
+  }
 }
