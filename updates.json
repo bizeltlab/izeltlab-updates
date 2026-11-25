@@ -1,8 +1,8 @@
 {
   "theme": {
-    "version": "3.22.1",
+    "version": "3.23.0",
     "package": "update/izeltlab-theme.zip",
-    "sha256": "7fa76e62958e2cb6792a56db9f5f0c101d636e1c5acb3bcfce536a8a9028e2d7",
+    "sha256": "79396c85f59212e437256b281a58f199b163e870f98de73e376d582c42cd16b7",
     "backup": {
       "version": "3.22.0",
       "package": "backup/izeltlab-theme.zip",
