@@ -1,32 +1,32 @@
 {
   "theme": {
-    "version": "3.24.0",
+    "version": "3.25.0",
     "package": "update/izeltlab-theme.zip",
-    "sha256": "a1a2f0c6aeea89ff28724389d8ea3d6a3b6605766b22efc4fb3edbedcbd3e340",
+    "sha256": "a435e9cb558df315024d95619bb2ad174a20e73990e755f7aa0d2ffb6e21fd10",
     "backup": {
-      "version": "3.23.0",
+      "version": "3.24.0",
       "package": "backup/izeltlab-theme.zip",
-      "sha256": "79396c85f59212e437256b281a58f199b163e870f98de73e376d582c42cd16b7"
+      "sha256": "a1a2f0c6aeea89ff28724389d8ea3d6a3b6605766b22efc4fb3edbedcbd3e340"
     }
   },
   "codex": {
-    "version": "2.18.0",
+    "version": "2.19.0",
     "package": "update/codex.zip",
-    "sha256": "7ffffac0418f5e5acb66bf45e3cb14141e5febdc3d4749ed39cbbf4822ae3ff8",
+    "sha256": "7748d837ebdd92076256f8d328a510fb60ed4b9edc085fde47be06665deef983",
     "backup": {
-      "version": "2.17.0",
+      "version": "2.18.0",
       "package": "backup/codex.zip",
-      "sha256": "c341a2c15213f2c58117f2f747db75d4a01ba97ac19eba8213e2cf2fc80156ec"
+      "sha256": "7ffffac0418f5e5acb66bf45e3cb14141e5febdc3d4749ed39cbbf4822ae3ff8"
     }
   },
   "bolt": {
-    "version": "1.19.1",
+    "version": "1.19.2",
     "package": "update/izeltlab-bolt.zip",
-    "sha256": "e433fc0fc13e452dcbfb8c2de189eb8ab1323129bb4c62cccd57fb0724eedfc1",
+    "sha256": "ec6b8cd45ed6be6f0c8e3b378978b2b443feb35ea1a789ab8159ad64f873695f",
     "backup": {
-      "version": "1.19.0",
+      "version": "1.19.1",
       "package": "backup/izeltlab-bolt.zip",
-      "sha256": "b41a16912b67d63265529a4a8aef3247e917b07f2e09d4496d3bc0d7b8746d67"
+      "sha256": "e433fc0fc13e452dcbfb8c2de189eb8ab1323129bb4c62cccd57fb0724eedfc1"
     }
   }
 }
